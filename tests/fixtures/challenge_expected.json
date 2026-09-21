@@ -1,0 +1,30 @@
+{
+  "entries": [
+    {
+      "color": "Green",
+      "firstname": "Kerri",
+      "lastname": "Chandler",
+      "phonenumber": "646-111-0101",
+      "zipcode": "01234"
+    },
+    {
+      "color": "Red",
+      "firstname": "James",
+      "lastname": "Murphy",
+      "phonenumber": "703-955-0373",
+      "zipcode": "11237"
+    },
+    {
+      "color": "Blue",
+      "firstname": "Booker T.",
+      "lastname": "Washington",
+      "phonenumber": "703-742-0996",
+      "zipcode": "10013"
+    }
+  ],
+  "errors": [
+    3,
+    4,
+    5
+  ]
+}

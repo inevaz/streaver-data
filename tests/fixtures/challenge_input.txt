@@ -1,0 +1,6 @@
+Washington, Booker T., (703)-742-0996, Blue, 10013
+James Murphy, Red, 11237, 703.955.0373
+Kerri, Chandler, 01234, (646) 111 0101, Green
+Doe, Jane, 212-555-0188, Purple, 1234
+Alan Turing, Silver, 90210, 123 456 789
+not a valid record
